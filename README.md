@@ -1,5 +1,23 @@
-# shop-shop
+# Shop-Shop
 
-E-commerce application built with React components, MongoDB, GraphQL for routing, and Stripe for payment processing.  It utilizes React's Context API to maintain global state.
+E-commerce application built using the MERN-stack that allows users to sign-in and add products to a shopping cart and checkout items for purchase.
 
-Deployed application link: https://peaceful-springs-45091.herokuapp.com/.
+## Deployed Link
+
+https://peaceful-springs-45091.herokuapp.com/
+
+## Technologies Used
+
+* React (Context API)
+* MongoDB
+* GraphQL
+* Node/Express
+* Stripe (payment processing)
+
+## User Story
+
+* As a user, I want to be able to purchase products after signing into an application.
+
+## Personal Note
+
+The creation of this application helped me understand the usage of a global state, and how to differentiate between using React Context API and Redux.
