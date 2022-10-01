@@ -6,6 +6,11 @@ E-commerce application built using the MERN-stack that allows users to sign-in a
 
 https://peaceful-springs-45091.herokuapp.com/
 
+## Screenshot
+
+![alt text](shopshop-screenshot.PNG)
+
+
 ## Technologies Used
 
 * React (Context API)
